@@ -78,13 +78,13 @@ tsc -init
 
 ### Run compiler on watch mode:
 
-```json
+```bash
 tsc -w
 ```
 
 ### Run app file:
 
-```json
+```bash
 node out/index.js
 ```
 
@@ -92,7 +92,7 @@ node out/index.js
 
 ### Add start script to **package.json** for simple run:
 
-```json
+```bash
 {
 	...
 	"scripts": {
