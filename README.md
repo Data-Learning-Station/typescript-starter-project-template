@@ -11,6 +11,16 @@
 node -v
 ```
 
+### Clone exists template
+
+Clone Repository
+
+```bash
+git clone https://github.com/verve-neowise/typescript-starter-project-template.git
+```
+
+or
+
 ### Create project
 
 1. Create folder and open on vscode
