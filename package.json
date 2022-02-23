@@ -12,5 +12,10 @@
     "url": "https://github.com/verve-neowise/typescript-starter-project-template.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.20",
+    "@types/prompt-sync": "^4.1.1",
+    "prompt-sync": "^4.2.0"
+  }
 }

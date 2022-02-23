@@ -110,3 +110,15 @@ Run:
 ```bash
 nodemon out/index.js
 ```
+
+# Install types
+
+Node types
+```bash
+npm i @types/node
+```
+
+Install prompt-sync
+```bash
+npm i prompt-sync @types/prompt-sync
+```
